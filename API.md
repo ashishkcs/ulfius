@@ -72,11 +72,13 @@ Include file `ulfius.h` in your source file:
 #include <ulfius.h>
 ```
 
+```shell
+
 ### Build options <a name="build-options"></a>
 
 You can use `pkg-config` to provide the compile and link options for Ulfius:
 
-```shell
+
 $ # compile flags
 $ pkg-config --cflags libulfius
 -I/usr/include
