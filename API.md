@@ -64,7 +64,7 @@
 
 ## Use Ulfius in a C program <a name="use-ulfius-in-a-c-program"></a>
 
-### Header file <a name="header-file"></a>
+## Header file <a name="header-file"></a>
 
 Include file `ulfius.h` in your source file:
 
