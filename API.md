@@ -74,7 +74,7 @@ Include file `ulfius.h` in your source file:
 
 ```shell
 
-### Build options <a name="build-options"></a>
+Build options <a name="build-options"></a>
 
 You can use `pkg-config` to provide the compile and link options for Ulfius:
 
